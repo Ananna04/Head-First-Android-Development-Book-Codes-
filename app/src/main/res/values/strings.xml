@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FirstApplicationBook</string>
+
+    <string name="textView">Hello_world!</string>
+</resources>
